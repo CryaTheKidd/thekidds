@@ -1,2 +1,1 @@
-local thingy = "test"
-print(thingy)
+print("hi")
