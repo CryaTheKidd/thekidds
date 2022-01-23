@@ -1,2 +1,4 @@
-local blacklistedids = 3120144
-print("BLACKLIST LOADED")
+getgenv().blacklistedids = {
+  3120144
+  }
+print("blacklist ids load")
